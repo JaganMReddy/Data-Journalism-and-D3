@@ -1,1 +1,2 @@
 certifi==2018.10.15
+gunicorn==19.9.0
